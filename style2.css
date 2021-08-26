@@ -1,0 +1,50 @@
+table {
+    width: 30%;
+}
+#first {
+background-color: grey;
+
+}
+#second {
+background-color: grey;
+color: green;
+}
+#third {
+background-color: grey;
+color: green;
+}
+#fourth {
+background-color: grey;
+}
+#fifth {
+background-color: grey;
+color: green;
+}
+#sixth {
+background-color: grey;
+color: green;
+}
+#seventh {
+background-color: grey;
+}
+#eighth {
+background-color: grey;
+color: red;
+}
+#nineth {
+  background-color: grey;  
+  color: red;
+}
+#tenth {
+color: green;
+}
+#eleventh {
+    color: red;
+
+}
+#twelfth {
+color: red;
+}
+#thirteenth {
+color: green;
+}

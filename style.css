@@ -1,0 +1,18 @@
+p {
+    color: red;
+    text-transform: capitalize;
+}
+body {
+    background-color: #E0ffff
+}
+h1 {
+    font-style: italic;
+   font-variant: versalete;
+   text-align: center;
+}
+#first {
+    text-align: right;
+}
+a {
+    text-decoration: none;
+}

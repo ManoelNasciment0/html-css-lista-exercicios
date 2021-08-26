@@ -1,0 +1,9 @@
+li {
+    color: indigo; 
+    border: solid 5px;
+    border-color: pink;
+}
+img {
+    width: 150px;
+    height: 200px;
+}

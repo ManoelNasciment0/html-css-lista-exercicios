@@ -1,0 +1,9 @@
+body {
+    background-image: url(https://www.viajali.com.br/wp-content/uploads/2018/02/boa-viagem-pe-1-730x547.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #E0ffff;
+}
+p,h1,h3 {
+    margin-left: 1200px;
+}
